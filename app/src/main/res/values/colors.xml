@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimario">#AC7272</color>
+    <color name="colorBotones">#052EFF</color>
+    <color name="colorSecundario">#CCA6A6</color>
+    <color name="colorT">#6C75B3</color>
+    <color name="colorBotones2">#A09AF2</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
